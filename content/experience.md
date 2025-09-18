@@ -7,11 +7,14 @@ coverCaption = ""
 tags = ["resume", "cv", "data analyst", "business analyst"]
 keywords = ["resume", "cv", "data analyst", "business analyst"]
 description = ""
+
 showFullContent = false
 readingTime = false
 hideComments = false
 color = "blue" #color from the theme settings
 +++
+
+[Download CV (PDF)](/cv-fidel.pdf)
 
 ### Project and Data Analytics Manager | Lux Design \+ Manufacturing
 
