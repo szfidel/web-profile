@@ -91,7 +91,7 @@ pagination.pagerSize = 5
 
     [languages.en.params.logo]
       logoText = "Fidel | Data + Software + Management"
-      logoHomeLink = "web-profile/"
+      logoHomeLink = "/web-profile"
 
     [languages.en.menu]
       # Submenus is available since v2.1.0
