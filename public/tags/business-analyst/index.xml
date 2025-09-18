@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business Analyst on </title>
-    <link>/tags/business-analyst/</link>
+    <link>//localhost:1313/tags/business-analyst/</link>
     <description>Recent content in Business Analyst on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/business-analyst/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="//localhost:1313/tags/business-analyst/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
-      <link>/experience/</link>
+      <link>//localhost:1313/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/experience/</guid>
+      <guid>//localhost:1313/experience/</guid>
       <description>&lt;h3 id=&#34;project-and-data-analytics-manager--lux-design--manufacturing&#34;&gt;Project and Data Analytics Manager | Lux Design + Manufacturing&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;November 2023 – Present&lt;/strong&gt; | &lt;em&gt;Vancouver, Canada&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -80,6 +80,27 @@
 &lt;p&gt;&lt;strong&gt;2017 – 2018&lt;/strong&gt; | &lt;em&gt;Private Pilot Licence&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;applied-mathematics--itam&#34;&gt;Applied Mathematics | ITAM&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;2012 – 2017&lt;/strong&gt; | &lt;em&gt;Bachelor&amp;rsquo;s Degree&lt;/em&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Welcome to My Digital Workshop</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a data analyst passionate about building robust solutions with open-source technologies and software development. My work centres around transforming complex data into actionable insights and developing efficient, scalable applications.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;
+&lt;p&gt;I specialise in data analytics and software development, with a particular focus on Python-based solutions and SQL-driven data processing. Whether it&amp;rsquo;s building automated data pipelines, creating analytical dashboards, or developing custom applications, I believe in leveraging the right tools for each challenge.&lt;/p&gt;</description>
+      <content>&lt;p&gt;I&amp;rsquo;m a data analyst passionate about building robust solutions with open-source technologies and software development. My work centres around transforming complex data into actionable insights and developing efficient, scalable applications.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;
+&lt;p&gt;I specialise in data analytics and software development, with a particular focus on Python-based solutions and SQL-driven data processing. Whether it&amp;rsquo;s building automated data pipelines, creating analytical dashboards, or developing custom applications, I believe in leveraging the right tools for each challenge.&lt;/p&gt;
+&lt;p&gt;My technical toolkit includes Python for data analysis and application development, SQL for database design and complex queries, and bash/zsh scripting for automation. I&amp;rsquo;m also proficient with Excel for rapid prototyping and stakeholder communication, and I use neovim and tmux for efficient development workflows.&lt;/p&gt;
+&lt;h2 id=&#34;my-philosophy&#34;&gt;My Philosophy&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m a strong advocate for open-source software and the Unix philosophy of doing one thing well. My preferred development environment runs on Debian Linux, where I appreciate the stability, security, and flexibility that comes with a well-maintained distribution. This foundation allows me to focus on what matters most: solving problems and delivering value.&lt;/p&gt;
+&lt;h2 id=&#34;what-youll-find-here&#34;&gt;What You&amp;rsquo;ll Find Here&lt;/h2&gt;
+&lt;p&gt;This blog serves as both a technical journal and a resource for fellow developers and analysts. I share insights from my projects, explore new technologies, and document solutions to challenges I encounter. You&amp;rsquo;ll find posts ranging from data analysis techniques and Python best practices to Linux system administration and development workflow optimisations.&lt;/p&gt;
+&lt;p&gt;Whether you&amp;rsquo;re here to learn about a specific technical topic or to explore potential collaboration opportunities, I&amp;rsquo;m glad you stopped by. Feel free to reach out if you&amp;rsquo;d like to discuss a project or simply connect with a fellow technology enthusiast.&lt;/p&gt;
 </content>
     </item>
     

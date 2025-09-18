@@ -1,5 +1,4 @@
-# Hello, I'm Fidel
+# Hello, welcome to my website!
 
-Welcome to my blog where I write about Linux (especially Debian), data analytics, and software development. I love working with Python, SQL, and various command-line tools.
-
-Feel free to explore my posts below and get in touch if you have any questions!
+I'm a data analyst who loves building things with Python, SQL, and Linux. I write about projects I'm working on, tools I discover, and whatever catches my interest in the tech world.
+Feel free to browse around and drop me a line if you want to chat!
