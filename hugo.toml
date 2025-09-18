@@ -3,6 +3,7 @@ languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "re-terminal"
+cacheDir = "/tmp/hugo_cache/"
 pagination.pagerSize = 5
 
 [params]
@@ -61,7 +62,6 @@ pagination.pagerSize = 5
   # dismissible = false
   # text = "Check it out on GitHub"
   # url = "https://github.com/mirus-ua/hugo-theme-re-terminal"
-
 
 
 [params.twitter]
