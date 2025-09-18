@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume on </title>
+    <link>/tags/resume/</link>
+    <description>Recent content in Resume on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience</title>
+      <link>/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/experience/</guid>
+      <description>&lt;h3 id=&#34;project-and-data-analytics-manager--lux-design--manufacturing&#34;&gt;Project and Data Analytics Manager | Lux Design + Manufacturing&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;November 2023 – Present&lt;/strong&gt; | &lt;em&gt;Vancouver, Canada&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deployed local LLMs with Ollama and Open WebUI in a docker container&lt;/li&gt;
+&lt;li&gt;Developed Python scripts utilising Monday.com GraphQL API to extract project data, transforming nested JSON responses into flattened CSV format for seamless Looker Studio integration and cross-departmental reporting&lt;/li&gt;
+&lt;li&gt;Defined, implemented, tested and deployed ERP system increasing response time by 200% in purchase and sales orders traceability and productivity at the overseas warehouse in Asia&lt;/li&gt;
+&lt;li&gt;Manage 100% of data infrastructure and expanded tech stack from 3 to 9 integrated systems over 18 months&lt;/li&gt;
+&lt;li&gt;Collaborated with 5 different departments to ensure alignment, resulting in 30% reduction in cross-departmental miscommunications and enhanced customer experience delivery&lt;/li&gt;
+&lt;li&gt;Led cross-functional projects, ensuring timely delivery within budget and scope while maintaining focus on customer-centric outcomes&lt;/li&gt;
+&lt;li&gt;Plan and execute software development of internal web apps as well as client portal&lt;/li&gt;
+&lt;li&gt;Data modelling and architecture design&lt;/li&gt;
+&lt;li&gt;Define tech stack for digitalisation of the company&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;support-engineer--amazon-audible&#34;&gt;Support Engineer | Amazon (Audible)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;July 2023 – August 2023&lt;/strong&gt; | &lt;em&gt;Mexico City, Mexico&lt;/em&gt;&lt;/p&gt;</description>
+      <content>&lt;h3 id=&#34;project-and-data-analytics-manager--lux-design--manufacturing&#34;&gt;Project and Data Analytics Manager | Lux Design + Manufacturing&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;November 2023 – Present&lt;/strong&gt; | &lt;em&gt;Vancouver, Canada&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deployed local LLMs with Ollama and Open WebUI in a docker container&lt;/li&gt;
+&lt;li&gt;Developed Python scripts utilising Monday.com GraphQL API to extract project data, transforming nested JSON responses into flattened CSV format for seamless Looker Studio integration and cross-departmental reporting&lt;/li&gt;
+&lt;li&gt;Defined, implemented, tested and deployed ERP system increasing response time by 200% in purchase and sales orders traceability and productivity at the overseas warehouse in Asia&lt;/li&gt;
+&lt;li&gt;Manage 100% of data infrastructure and expanded tech stack from 3 to 9 integrated systems over 18 months&lt;/li&gt;
+&lt;li&gt;Collaborated with 5 different departments to ensure alignment, resulting in 30% reduction in cross-departmental miscommunications and enhanced customer experience delivery&lt;/li&gt;
+&lt;li&gt;Led cross-functional projects, ensuring timely delivery within budget and scope while maintaining focus on customer-centric outcomes&lt;/li&gt;
+&lt;li&gt;Plan and execute software development of internal web apps as well as client portal&lt;/li&gt;
+&lt;li&gt;Data modelling and architecture design&lt;/li&gt;
+&lt;li&gt;Define tech stack for digitalisation of the company&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;support-engineer--amazon-audible&#34;&gt;Support Engineer | Amazon (Audible)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;July 2023 – August 2023&lt;/strong&gt; | &lt;em&gt;Mexico City, Mexico&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented patches for Java-based content pipelines in AWS, ensuring system security and reliability&lt;/li&gt;
+&lt;li&gt;Completed AWS Cloud Practitioner and Solutions Architect course, gaining proficiency in cloud computing fundamentals, infrastructure and AWS services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data-analyst--undostres&#34;&gt;Data Analyst | Undostres&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;May 2022 – June 2023&lt;/strong&gt; | &lt;em&gt;Mexico City, Mexico&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed automated reporting processes with Jenkins, Python, and MySQL, cutting processing time by 50% and enabling faster insights for customer program evaluation&lt;/li&gt;
+&lt;li&gt;Employed advanced SQL optimisation techniques including indexes, temporary tables, and window functions for enhanced data retrieval and customer behaviour analysis&lt;/li&gt;
+&lt;li&gt;Utilised data analytics techniques to analyse customer LTV, engagement patterns, and transactional funnels, providing actionable insights for customer acquisition and retention strategies&lt;/li&gt;
+&lt;li&gt;Created financial dashboards highlighting seasonalities and outliers, supporting strategic decision-making for customer programs and business growth&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;business-intelligence-analyst--valoreo&#34;&gt;Business Intelligence Analyst | Valoreo&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;October 2021 – April 2022&lt;/strong&gt; | &lt;em&gt;Mexico City, Mexico&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Created supply chain reports with Looker Studio and BigQuery, filling critical gaps and providing actionable insights for cross-functional decision makers&lt;/li&gt;
+&lt;li&gt;Collaborated with business stakeholders and data engineering teams to develop stable data pipelines supporting customer program measurement&lt;/li&gt;
+&lt;li&gt;Planned and prioritised projects using agile methodologies in Jira, focussing on fast delivery through sprint-based development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;analytics-consultant--energea&#34;&gt;Analytics Consultant | EnergeA&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;January 2021 – October 2021&lt;/strong&gt; | &lt;em&gt;Mexico City, Mexico&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted economic appraisals and financial analyses within the Oil &amp;amp; Gas and renewable energy sectors, focussing on financial viability and strategic investments&lt;/li&gt;
+&lt;li&gt;Provided data-driven strategic insights and recommendations through comprehensive economic assessments, supporting clients in operational efficiency optimisation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;SQL, Python, Bash, Git, BigQuery, Looker Studio, MS Excel, Tableau, Monday.com, Project Management, Linux, Data Visualisation, Data Modelling, Dashboard Creation, SQL Optimisation, ETL, Data cleansing, Stakeholder Management, Agile methodologies, GCP, AWS, Jenkins (CI/CD), Prompt Engineering, ChatGPT, Claude, Claude Code, Gemini, Local LLMs, Machine Learning, Odoo, Odoo.sh&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;h3 id=&#34;business-administration--ebc&#34;&gt;Business Administration | EBC&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;2019 – 2021&lt;/strong&gt; | &lt;em&gt;Bachelor&amp;rsquo;s Degree&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Highest GPA in graduating class (9.83/10.00)&lt;/li&gt;
+&lt;li&gt;Fastest program completion in school history (completed in 3 years instead of 4)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;helicopter-and-airplane-pilot&#34;&gt;Helicopter and Airplane Pilot&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;2017 – 2018&lt;/strong&gt; | &lt;em&gt;Private Pilot Licence&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;applied-mathematics--itam&#34;&gt;Applied Mathematics | ITAM&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;2012 – 2017&lt;/strong&gt; | &lt;em&gt;Bachelor&amp;rsquo;s Degree&lt;/em&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
