@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Debian on </title>
+    <link>//localhost:1313/tags/debian/</link>
+    <description>Recent content in Debian on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/debian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The year of Linux Desktop</title>
       <link>//localhost:1313/posts/linux_desktop/</link>
@@ -58,19 +58,6 @@ I am passionate about it, I am not afraid of not knowing or an endless documenta
 The about of frustration you get from failing to change something in you config is
 rewarded with resilience and accomplishment. I love computers now, they are not only
 tools I use, they say something about me.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Website Revamp</title>
-      <link>//localhost:1313/posts/welcome/</link>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/welcome/</guid>
-      <description>&lt;p&gt;Hello there, it&amp;rsquo;s been a while since I wanted to do some changes to my website, but the thought of learning a JavaScript framework made me drag my feet a lot. As you know, I am not a web developer, but I love software and learning new things. Fortunately, I found Hugo, an open source framework for static websites and blogs written in Go. The best thing about it is that I can write my entries in Markdown and Hugo will make the HTML. One of the things that I really wanted to explore is blogging, and Hugo is fantastic for that. I can do it directly in my terminal and push it to my repository on GitHub. To make things easier, I am using GitHub Pages so I don&amp;rsquo;t need to worry about anything else other than the content.&lt;/p&gt;</description>
-      <content>&lt;p&gt;Hello there, it&amp;rsquo;s been a while since I wanted to do some changes to my website, but the thought of learning a JavaScript framework made me drag my feet a lot. As you know, I am not a web developer, but I love software and learning new things. Fortunately, I found Hugo, an open source framework for static websites and blogs written in Go. The best thing about it is that I can write my entries in Markdown and Hugo will make the HTML. One of the things that I really wanted to explore is blogging, and Hugo is fantastic for that. I can do it directly in my terminal and push it to my repository on GitHub. To make things easier, I am using GitHub Pages so I don&amp;rsquo;t need to worry about anything else other than the content.&lt;/p&gt;
-&lt;p&gt;That being said, welcome to my new website and my first blog! I will write from time to time, hopefully regularly, about new projects or technologies. Since the blog is a passion project, I&amp;rsquo;d rather ship fast than make them perfect. Some of them may be half-cooked ideas, but the motivation is to share my interests and attract other people to share knowledge.&lt;/p&gt;
-&lt;p&gt;Anyway, the last thing is that I want to keep the blogs short, more like microblogging. Thanks for reading, and feel free to connect with me, you&amp;rsquo;ll find my socials in the Contact menu. Cheers!&lt;/p&gt;
 </content>
     </item>
     

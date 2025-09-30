@@ -75,7 +75,7 @@ pagination.pagerSize = 5
   [languages.en.params]
     languageName = "English"
     title = "re-Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Fidel | Data + Software + Management"
     owner = ""
     keywords = ""
     copyright = ""
